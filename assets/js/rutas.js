@@ -1,10 +1,10 @@
 
 function Login (){
-  location.href = '/pages/auth/login.html'
+  location.href = '/SkillSwap/pages/auth/login.html'
 }
 
 function register (){
-  location.href = '/pages/auth/register.html'
+  location.href = '/SkillSwap/pages/auth/register.html'
 }
 
  
